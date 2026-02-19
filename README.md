@@ -1,2 +1,2 @@
 🎥 Self Introduction Video:
-[Click to download](./Introductory-video.mp4)
+[Click to download](./Introductory-video)
